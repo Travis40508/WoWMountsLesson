@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WowMounts</string>
+    <string name="api_key">5r2rskc5qp9x2mh7dtabxjznz4vf2dc5</string>
+    <string name="base_url">https://us.api.battle.net</string>
+</resources>
